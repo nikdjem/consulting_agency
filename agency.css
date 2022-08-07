@@ -94,12 +94,12 @@ nav ul.nav-primary {
 
 .consulting-rev a:hover,
 .consulting-rev a:hover .fa-chevron-right {
-  background: #c79d63;
+  background: #022140;
   color: #090821;
   cursor: pointer;
 }
 .consulting-rev i {
-  color: #c79d63;
+  color: #022140;
 }
 
 h2 {
