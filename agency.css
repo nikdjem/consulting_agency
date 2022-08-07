@@ -56,7 +56,7 @@ nav ul.nav-primary {
 }
 
 .consulting-rev {
-  width: 500px;
+  width: 800px;
   margin: 0 auto;
 }
 
@@ -67,6 +67,7 @@ nav ul.nav-primary {
   margin-top: 100px;
   margin-bottom: 50px;
   text-transform: uppercase;
+  width: 800px;
 }
 
 .consulting-rev p {
