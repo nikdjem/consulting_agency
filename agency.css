@@ -274,3 +274,18 @@ footer {
   justify-content:space-around;
   color: #ffffff
 }
+
+.partners {
+  height: 90px;
+  margin-top: 45px;
+}
+
+.partners ul {
+  display: flex;
+  justify-content: center;
+}
+
+.partners img {
+  width: 135px;
+  height: 60px;
+}
