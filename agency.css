@@ -251,7 +251,7 @@ h2 {
 .testimonial-info > p::after {
   content: open-quote;
   color: #130c77;
-  font-size: 32px; }
+  font-size: 15px; }
 .testimonial-info > p::after {
   content: close-quote; }
 .testimonial-info footer {
@@ -265,7 +265,10 @@ h2 {
   padding: 0;
   margin-bottom: 0;
   font-size: 14px;
-  color: #777777; }
+  color: #777777; 
+  height: 25px;
+}
+
 footer {
   height: 280px;
   background: rgb(9, 8, 33);
@@ -288,4 +291,72 @@ footer {
 .partners img {
   width: 135px;
   height: 60px;
+}
+
+footer h2 {
+  color: #fff;
+  margin-left: 20px;
+  padding-top: 10px;
+}
+
+.info li {
+  color: #fff;
+  width: 180px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.info li i {
+  font-size: 16px;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  width: 153px;
+}
+
+.socials li {
+  width: 200px;
+}
+
+.socials a {
+  display: block;
+  width: 32px;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  border-radius: 50%;
+  background: rgb(131, 131, 143);
+  color: #090821;
+}
+
+.extra-links ul {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 145px;
+  width: 200px;
+}
+
+.extra-links ul li {
+  display: block;
+  padding: 5px;
+}
+
+.extra-links ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.instagram-widget ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 300px;
+}
+
+.instagram-widget img {
+  width: 100px;
+  height: 100px;
 }
